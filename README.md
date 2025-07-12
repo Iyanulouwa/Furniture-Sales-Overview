@@ -1,4 +1,4 @@
-<img width="976" height="470" alt="image" src="https://github.com/user-attachments/assets/3a662261-7143-4580-93ab-ccc733b6bb9d" /># Furniture-Sales-Overview
+# Furniture-Sales-Overview
 . It showcases the performance of furniture sales across different regions in the U.S., using real-world sales data. From Power Query to Pivot Tables and Pivot Charts, this project walks through the full data transformation and dashboard.
 
 **Project Title**: Furniture Sales Performance Dashboard (Excel)
@@ -25,6 +25,7 @@ The dashboard provides visual insights into the following:
 **State-wise Sales**: Geographic visualization using a map
 **Top Cities**: Best-performing cities by quantity of orders
 **Interactive Filters**: Region and Segment slicers for dynamic insights
+<img width="976" height="470" alt="image" src="https://github.com/user-attachments/assets/3a662261-7143-4580-93ab-ccc733b6bb9d" />
 
 <img width="1600" height="760" alt="image" src="https://github.com/user-attachments/assets/711a786f-0351-48fd-8313-b352f7c2c6a5" />
 
